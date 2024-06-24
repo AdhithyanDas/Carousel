@@ -1,0 +1,38 @@
+nav{
+    background-color: #2b2b2b;
+    min-height: 120px;
+}
+
+ul{
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: .2em;
+    padding-right: 50px;
+}
+
+.logo{
+    max-height: 83px;
+    max-width: 90px;
+}
+
+img{
+    max-height: 617px;
+}
+
+*{
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    color: white;
+}
+
+footer{
+    background-color: #2b2b2b;
+}
+
+p a{
+   font-size: 12px;    
+}
+
+a:hover{
+    color: gray;
+}
+
